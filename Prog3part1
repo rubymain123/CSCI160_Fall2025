@@ -1,7 +1,0 @@
-#name:Ruby Main
-#email:ruby.main@und.edu
-
-x=10
-
-list(range(0,x))
-print (list(range(0,x +1)))
